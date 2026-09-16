@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Dipanshu Upadhay",
+        "age": 20,
+        "email": "dipanshu@gmail.com",
+        "pin": 1234,
+        "accountNo.": "1234",
+        "balance": 0
+    },
+    {
+        "name": "Ram",
+        "age": 21,
+        "email": "ram@gmail.com",
+        "pin": "1342",
+        "accountNo.": "D%2O50r",
+        "balance": 5000
+    },
+    {
+        "name": "archana",
+        "age": 21,
+        "email": "archana@gmail.com",
+        "pin": "1232",
+        "accountNo": "67^Zj2V",
+        "balance": 4500
+    }
+]
